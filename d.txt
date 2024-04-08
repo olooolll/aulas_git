@@ -1,0 +1,1 @@
+Para encaminhar os códigos para o servidor utilizamos o comando "git push"

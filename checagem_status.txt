@@ -1,0 +1,1 @@
+Para treckar os arquivos que foram comitados digite o comando "git status"

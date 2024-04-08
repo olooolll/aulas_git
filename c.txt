@@ -1,1 +1,0 @@
-Para comitar os aruivos especificos ou varias arquivos, utilizando o comando "git commit" podendo comitar arquivos especificos ou varios arquivos usando o parametro "-a". Precisa ser uma boa pratica enviar mensagens informando oque foi alterado com o parametro "-m"

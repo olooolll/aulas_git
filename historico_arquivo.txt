@@ -1,0 +1,3 @@
+Podemos acessar um log de modificação feitas no projeto;
+O comando para esse recurso é "git log"
+Você receberá uma informação dos commits realizado no projeto até então;

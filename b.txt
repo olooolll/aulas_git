@@ -1,1 +1,0 @@
-Para todos os arquivos serem add precisa digitar o comando "git add ." 

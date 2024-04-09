@@ -1,0 +1,7 @@
+O arquivo modificado pode ser retornado ao estado original;
+O comando utilizado é o "git chekout"
+Após a utilização do mesmo o arquivo sai do staging;
+Caso seja feita uma proxima alteração, ele entra em taging novamente;
+
+
+## ESSE É O ARQUIVO ORIGINAL ##

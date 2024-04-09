@@ -1,0 +1,4 @@
+Uma técnica muito ultilizada é ignorar arquvos do projete;
+Devemos inserir um arquivo chamado ".gitignore" na raiz do projeto;
+Nele podemos inserir todos os arquivos que não devem entrar no versionamento;
+Isso é ultil para arquivos gerados automaticamente ou arquivos que contêm informações sensiveis;

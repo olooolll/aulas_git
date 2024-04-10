@@ -1,0 +1,3 @@
+Branch é a forma que o git separa as versões dos projetos;
+Quando um projeto é criado ele inicia na branch MAIN, estamos trabalhando nela até este ponto;
+Após a finalização das alterações os branchs são unidos para ter o código-donte final;

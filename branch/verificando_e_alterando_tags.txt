@@ -1,0 +1,3 @@
+Podemos verficar uma tag com o comando "git show <nome>";
+Podemos trocar de tags com o comando "git checkout <nome>";
+Desta maneira podemos retroceder ou acançar em checkpoinst de um branch;

@@ -1,3 +1,4 @@
 Podemos verificar as stashs pelo comando "git stash list"
 E também podemos recuperar a stash com o comando "git stash <nome>"
-Desta maneir podemos continuar de onde paramos com os arquivos adicionados a stash
+Desta maneira podemos continuar de onde paramos com os arquivos adicionados a stash
+Para reculperar uma stash utilizamo o comando "git stash apply <numero da stash na lista>"

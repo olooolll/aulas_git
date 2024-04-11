@@ -1,0 +1,4 @@
+Podemos criar tags nos branches po meio do comando "git tag -a <nome> -m "<mensagem>"
+A tag é diferente do stash, serve como um checkpoint de um branch;
+É utilizada para demarcar estágios do desenvolvimento de algum recurso;
+

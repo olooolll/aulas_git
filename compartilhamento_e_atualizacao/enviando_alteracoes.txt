@@ -1,0 +1,4 @@
+O comando "git push" faz o inverso do pull, ele envia as alteações para o repo remoto;
+Serve também para enviar as atualizações de uma branch específico para um outro dev;
+Ou quando terminamos uma tareda e precisamos enviar ao repo;
+

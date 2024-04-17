@@ -1,0 +1,3 @@
+O comando "git gc" é uma abreviacao para garbage collector;
+Ele identifica arquivos que não são mais necessários e os exclui;
+Isso fará com que o repositório seha otimizado em questões de performace;

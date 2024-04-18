@@ -1,0 +1,5 @@
+O problema: commits sem sentido atrapalham o projeto;
+Precisamos padronizar os commits, para que o projeto cresça de forma saudável também no versionamento, isso ajuda em;
+Review do Pull Request;
+melhoria dos lof em "git log";
+Manutenção do projeto (Voltar código, por exemplo);

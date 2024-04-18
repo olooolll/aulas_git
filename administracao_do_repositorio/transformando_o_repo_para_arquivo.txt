@@ -1,0 +1,3 @@
+Como o comando "git archive" podemos transformar o repo um arquivo compactado, por exemplo;
+O comando é "git archive --format zip --output main_files.zip main"
+E entãp a master vai estar ziapada no arquivo main_files.zip

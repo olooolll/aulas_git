@@ -1,0 +1,4 @@
+A aba code teremos acessos a informações importantes, como próprio código fonte;
+Podemos checar também uma documentação do projeto pelo README.md;
+E os detalhes da licença do projetp;
+Criar branches, adicionar arquivos e muito mais!

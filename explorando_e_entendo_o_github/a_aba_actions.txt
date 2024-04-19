@@ -1,0 +1,3 @@
+Na aba actions é onde se cria as automatizações de deploy com integração em outros serviços;
+Incluido CI/CD (contiunuous integration / Continuous Development);
+Ou seja, podemos criar uma rotina de atulizar a master automaticamente e outros processos;

@@ -1,0 +1,5 @@
+Na aba issue podemos criar tarefas ou possíveis bugs do projeto;
+Interessante para organização se manter ciente do que ainda precisa fazer ou corrigir;
+Normalmente há um padrão para cração de novos issues;
+Podemos utilizar o Markdown no text também (igual o README.md);
+A issue deve ser uma lavel e também um responsável;

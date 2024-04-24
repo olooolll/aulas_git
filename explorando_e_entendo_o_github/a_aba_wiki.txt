@@ -1,0 +1,4 @@
+Na aba Wiki podemos criar uma documentação mais extensa para o projeto; 
+Como descever funcionadidades, bufs conhecidos e não solucionados, entre outras funções. 
+A ideia é que seja um repositório de conhecimento sobre o projeto;
+

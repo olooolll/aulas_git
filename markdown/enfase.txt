@@ -1,0 +1,4 @@
+Temos símbolos que podem dar ênfase ao texto;
+Para escrever em negrito: **<texto>** ou __<texto>__
+Para escrever em itálico: *<texto>* ou _<texto>_
+Combinando os dois: _um**<texto>**combinado_

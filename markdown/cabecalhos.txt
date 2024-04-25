@@ -1,0 +1,7 @@
+Os cabeçalhos em markdown são determinados pelo simbolo #
+Cabeçalhos são os famosos títulos ou Headings do HTML
+# -> h1
+## -> h2
+### -> h3
+
+Assim por diante
